@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.btn{
+  margin-bottom: 20px;
+  border: none;
+  height: 40px;
+  width: 100px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  font-size: 15px;
+}
+body{
+  background-color: #EAEEF3;
+}
+.card{
+  border-radius: 5px;
+  background-color: white;
+  width: 300px;
+  margin: 50px auto;
+  padding: 10px;
+  box-shadow: 5px 5px 15px gray;
+}
+.card img{
+  border-radius: 5px;
+
+}
+p{
+  color:gray
+}
+.user-details{
+  text-align: left;
+}
